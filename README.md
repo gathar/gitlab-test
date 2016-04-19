@@ -1,1 +1,1 @@
-# gitlab-test
+Das ist ein tolles Gitlab Sync Test Repo!
